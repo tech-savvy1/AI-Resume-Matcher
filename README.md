@@ -11,7 +11,9 @@ AI Resume Matcher is a smart Streamlit web app that compares your resume with a 
 
 ## 📸 Screenshot
 
-!ai-resume-matcher screenshot.png
+Here's a preview of the app in action:
+
+![Resume Matcher Screenshot](ai-resume-matcher-screenshot.png)
 
 
 ## 🛠️ Tech Stack
